@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nuijeitail.zach.works/sitemap.xml
